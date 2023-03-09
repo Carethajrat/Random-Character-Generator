@@ -1,6 +1,6 @@
 # Random-Character-Generator
 Random Star Wars Character Generator using jQuery.
-It is amazing in both design and execution and mobile friendly.
+It is amazing in both the design and execution.
 
 To install jQuery here i'm using the CDN method if you want to install it however in a diffrent manner 
 you can go to https://jquery.com/download/ and download jQuery and help yourself out.
