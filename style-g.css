@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(45deg,rgba(0,0,0,0.2),rgba(0,0,0,0.7)),url("https://user-images.githubusercontent.com/113019349/218391256-995343a3-7759-46dc-a13c-88abb31ce3a5.jpg");
+    background-position: center center;
+    background-repeat:repeat-y;
+    background-size: cover;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: grey;
+    background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.2));
+}
+.spin{
+    display: flex;
+    flex-wrap: wrap;
+    transform: translate(0px,250px);
+}
+
+.fa-search:before{content:"\f002"}
+footer{
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    background-color: grey;
+    background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.2));
+    margin-top: 50px;
+    color: #fff;
+    margin: 0;
+    padding: 15px;
+
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+a:hover{
+    color: white;
+}
+footer a:hover{
+    color: rgb(166, 255, 0);
+}
+.main{
+    margin-bottom: 50px;
+}
+
+@media (min-width:280px) and (max-width:768px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+}
