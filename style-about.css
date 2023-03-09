@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(45deg,rgba(0,0,0,0.2),rgba(0,0,0,0.7)),url("https://user-images.githubusercontent.com/113019349/218391306-63e392f4-8074-4e2e-994d-7c78c86f11c7.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    /* height: 2000px; */
+
+}
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: grey;
+    background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.2));
+}
+footer{
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    background-color: grey;
+    background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.2));
+    margin-top: 50px;
+    color: #fff;
+    margin: 0;
+    padding: 15px;
+
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+a:hover{
+    color: white;
+}
+footer a:hover{
+    color: rgb(166, 255, 0);
+}
+
+@media(min-width:280px) and (max-width:768px){
+    #ss-one, #ss-two{
+        width: 100%;
+        height: auto;
+    }
+}
