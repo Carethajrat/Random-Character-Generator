@@ -7,11 +7,16 @@ you can go to https://jquery.com/download/ and download jQuery and help yourself
 
 # Well here's the first look of Random Character Generator.
 
-On large screen
+# On large screen
+
 ![Screenshot (289)](https://user-images.githubusercontent.com/113019349/223951413-55502ac8-3a09-4200-b8a0-4b48d31f0a7d.png)
 
-On Mobile screen
+# On Mobile screen
+
 ![Screenshot (303)](https://user-images.githubusercontent.com/113019349/223966814-453aecc9-8728-477b-923e-f72670dfa88c.png)
 ![Screenshot (304)](https://user-images.githubusercontent.com/113019349/223967059-a3e79de2-9a71-411d-8921-5340633de830.png)
+
+
+
 
 See yaa!
